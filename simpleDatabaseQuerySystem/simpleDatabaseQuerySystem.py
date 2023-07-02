@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-#Zeynep Çoğalan 2021510078 -- Esma Beydili 2020510018
+
 import csv
 import json
 
