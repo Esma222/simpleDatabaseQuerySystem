@@ -9,7 +9,7 @@ This is a temporary script file.
 import csv
 import json
 
-# We read the csv file, split it with ";", and put it into the data
+# We read the csv file, split it with ";", and put it into the data.
 def read_csv(filename):
     data = []
     with open(filename, 'r') as file:
